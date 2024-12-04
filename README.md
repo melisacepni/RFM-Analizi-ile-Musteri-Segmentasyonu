@@ -1,6 +1,7 @@
 ## RFM Analizi ile Müşteri Segmentasyonu
 
 #### İş Problemi
+
 Online ayakkabı mağazası olan FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor. Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmelere göre gruplar oluşturulacak.
 
 #### Veri Seti Hikayesi
@@ -10,6 +11,7 @@ Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel 
 12 Değişken 19.945 Gözlem bulunmaktadır.
 
 ##### Değişkenler ve açıklamaları:
+
 - master_id = Eşsiz müşteri numarası 
 - order_channel = Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile)
 - last_order_channel = En son alışverişin yapıldığı kanal
